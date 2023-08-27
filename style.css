@@ -1,0 +1,26 @@
+body{
+    background-color:darkslategray
+   
+}
+h1{
+    color:cyan;
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    font-weight:bold
+}
+p{
+    color:cyan;
+    text-align: center;
+}
+.image{
+    border: 5px solid burlywood;
+    width: 100%;
+}
+.poster{
+    width: 50%;
+   /* height: 50%;*/
+   margin-left: 25%;
+     /*margin-top: 25%*/
+     margin-top: 100px;
+}
